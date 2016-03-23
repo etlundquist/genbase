@@ -1,0 +1,901 @@
+DestAddr,DestCode,DestName,Distance,Duration,OrigAddr,OrigCode,OrigName
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,0,0,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,2969738,93542,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,3660687,120575,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4256093,139057,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,2830198,92541,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,2816943,91387,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,2904008,94493,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3240417,105555,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1391725,45468,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3225672,104394,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,3798365,118786,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1892529,59184,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1945782,66713,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,574128,19095,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,603369,20230,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,2947853,95388,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,2644795,89138,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,3905827,129188,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,3891384,128371,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,1185719,38461,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,3773694,124060,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,3309921,108267,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,572463,18969,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,1210746,39655,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,2290862,77903,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,2343243,76165,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,3501980,109761,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1685048,52958,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,3606949,117192,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,3705557,120673,"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2973212,93880,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,0,0,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1100140,36519,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1739702,58758,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1167903,39481,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1151671,38296,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,745250,24132,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1145799,37376,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2260137,71943,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1164027,38213,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1062924,33167,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1272738,40112,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1282306,41693,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3494140,112409,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3504820,113076,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1317565,43670,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1826570,58656,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1432690,48010,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1418247,47193,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3956781,127637,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1253225,41746,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,1106432,37343,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3452352,109048,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3981808,128831,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4247018,138812,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,896968,28996,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,766539,24142,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1289441,41392,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,1533465,51220,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1031208,33987,"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3663548,121088,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1098978,36476,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,0,0,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,646285,22860,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1137324,38570,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1121092,37384,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,815852,28123,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,601289,20658,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2671319,87089,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,842190,28112,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1760158,56201,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2322974,75253,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1693487,56839,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4247241,138239,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4257921,138906,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1276778,42983,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1786448,59654,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,339273,12112,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,324830,11295,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4532350,147820,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,159808,5848,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,399087,14189,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4231614,139387,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4529448,147831,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4445559,144876,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1318501,44558,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1554766,50975,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2224089,72755,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,737801,28286,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,62927,2975,"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,4236959,139668,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1741107,58911,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,647141,22989,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,0,0,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1588172,53463,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1571941,52278,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1395471,46945,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1025725,34428,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,3164595,102526,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1137679,38457,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2402286,78636,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2957600,97233,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2266899,75420,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4786472,154527,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4797152,155193,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1727627,57877,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,2237296,74547,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,326367,11927,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,327102,11942,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4983199,162713,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,496440,18121,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,919319,32834,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4805026,157968,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4980296,162724,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4896408,159769,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1891913,63138,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,2196895,73410,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2858714,94735,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,878756,29634,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,705055,25410,"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2833171,93132,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1163400,39387,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1139577,38757,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1588484,53477,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,0,0,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,17223,1371,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,485297,17011,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,564517,19576,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1622722,52325,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,464064,15996,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2226324,72555,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1751478,58938,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,835590,28268,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3244599,104326,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3255279,104993,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,145344,5751,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,655014,22422,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1303236,44321,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1288793,43504,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3441325,112513,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1238471,41980,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,751709,25432,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3354309,108018,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3438423,112524,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3314125,107644,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,488124,16602,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1929940,63530,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1526698,52109,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,845342,28793,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1141582,39060,"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2820540,92174,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1147050,38269,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1123226,37639,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1572134,52359,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,17397,1490,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,0,0,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,468947,15892,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,548166,18458,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1616064,51814,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,447714,14877,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2209974,71436,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1735134,57798,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,822959,27310,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3237941,103815,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3248621,104482,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,156887,5910,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,666557,22580,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1286885,43203,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1272442,42386,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3434667,112002,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1222121,40861,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,735358,24314,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3347651,107507,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3431765,112013,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3325668,107802,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,475494,15644,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1913589,62411,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1579790,51161,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,828991,27675,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1125232,37942,"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2908629,95353,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,742709,24077,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,815058,28105,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1416307,46860,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,485283,17111,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,469052,15925,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,0,0,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,400632,13358,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1916400,61353,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,420862,14423,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1805633,57244,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1685935,56728,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,938568,31104,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3492322,112504,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3503002,113170,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,634945,21299,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1139328,37815,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1060198,36718,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1045755,35901,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3838264,124571,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,928065,31590,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,464293,15798,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3476696,113652,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3835361,124582,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3798439,123037,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,563582,18823,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1509248,48219,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1530590,50091,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,790300,27430,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,817064,28407,"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3241730,106147,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1142413,37265,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,603170,20889,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1026351,34468,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,563592,19544,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,547360,18358,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,400242,13424,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"487-517 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,0,0,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2140014,68606,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,268458,9085,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1997333,64582,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2085639,69916,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1271669,41898,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3761891,120607,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3772571,121274,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,703046,23957,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1212715,40627,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,766829,26452,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,752386,25636,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3958618,128794,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,702064,24111,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,215301,7564,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3871602,124299,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3955715,128805,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3871827,125850,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,896683,29617,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1791941,59356,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1930294,63280,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,468148,16499,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,605175,21191,"487 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,1323307,45814,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,2254393,71737,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,2671568,87016,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,3166108,102302,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1622707,52168,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1617229,51470,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1914889,60935,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,2142140,68401,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,0,0,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,2039712,64626,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,3317317,104904,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1662500,55195,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,979006,30518,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,1628230,52608,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,1638910,53275,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1673050,52770,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1468365,46418,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,2880859,93146,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,2866416,92329,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,2016098,66665,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,2784575,90502,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,2329332,74257,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,1737941,56300,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,2013195,66676,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,2115885,70439,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1365894,43071,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,3020932,95879,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1262694,42154,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,2420990,77424,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,2673573,87319,"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3230008,105190,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1160884,38165,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,844142,28388,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1138654,38573,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,464037,16105,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,447805,14919,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,420719,14390,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,269082,9207,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2038994,65009,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,0,0,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2223808,71332,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2091651,70328,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1232427,40326,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3660871,117009,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3671551,117676,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,617737,20426,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1122119,36941,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1007801,33952,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,993358,33135,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3857597,125196,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,943036,31611,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,456274,15063,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3770581,120701,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3854695,125207,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3781231,122164,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,884961,28660,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1927424,62307,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1936306,63691,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,374909,13338,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,846147,28691,"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3794970,118491,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1064329,33109,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1760218,55992,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,2399780,78231,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,2227682,72313,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,2211451,71127,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1805030,56963,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1998082,64401,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,3319917,104774,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,2223806,71044,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,0,0,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1907968,59902,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2342086,74525,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4368391,137132,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4397632,138267,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,2377344,76501,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,2886350,91487,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,2092768,67483,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,2078325,66666,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4979982,156498,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1913303,61219,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,1889968,61507,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4274109,133659,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,5005009,157692,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,5306798,171644,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1956748,61827,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,426367,13831,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2133313,68794,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,2386700,78134,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1691286,53460,"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,1891659,59123,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1274319,40340,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,2324481,75569,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,2969761,97362,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1751473,58871,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1735274,57698,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1684868,56585,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,2085418,69830,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1657973,55076,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,2092096,70162,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1907900,60140,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park,0,0,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1194644,40413,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,2465081,77764,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,2494322,78899,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1888792,62757,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1897730,63156,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,2650924,86682,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,2636481,85865,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3076671,97130,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,2479489,80776,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,2149079,72270,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,2370798,74291,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3101698,98324,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3725043,125363,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1251772,44018,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1611515,51115,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,411895,13521,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,2461535,83169,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,2270265,73603,"1543-1599 Texas Ave, Houston, TX 77002, USA",HOU,Minute Main Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,1945463,67458,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1276870,41645,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1694045,56924,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,2289450,75407,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,833957,28282,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,820701,27128,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,937365,30843,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1273775,41905,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,979748,30774,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1229430,40136,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2339794,74812,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1191638,40528,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,0,0,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,2604774,82903,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,2615454,83570,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,908993,29527,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,705848,23176,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1939184,65538,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1924741,64721,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,2919271,95824,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1807051,60410,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,1343279,44617,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,2513529,85758,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,2916369,95835,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,2966629,97644,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,388371,12979,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,2043409,65787,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,901518,29011,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,1610708,52933,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1696050,57227,"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,573319,19271,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,3488680,111778,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,4245260,137868,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4787861,154439,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,3244459,104305,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,3238982,103607,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,3488581,111787,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3763893,120538,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1627713,52640,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3661465,116764,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,4371718,137559,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2465882,77957,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2603841,82792,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,0,0,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,50259,2800,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,3294802,104907,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,3090118,98556,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,4502612,145283,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,4488169,144466,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,633426,21554,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,4358267,141354,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,3894495,125561,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,149989,5702,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,658453,22748,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,1872606,63880,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,2927817,93459,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,4075333,128534,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2258401,71732,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,4042743,129561,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,4290131,137967,"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,602867,20155,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,3501297,112303,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,4257877,138393,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4800477,154964,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,3257076,104830,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,3251598,104132,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,3501198,112311,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3776510,121063,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1640329,53164,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3674082,117288,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,4401267,138443,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2495430,78841,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2616458,83317,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,50735,2593,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,0,0,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,3307419,105431,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,3102734,99080,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,4515229,145807,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,4500786,144991,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,586717,19415,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,4370884,141878,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,3907112,126085,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,198486,7787,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,611744,20609,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,1825897,61741,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,2940433,93983,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,4104882,129418,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2287949,72615,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,4055360,130086,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,4302748,138491,"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2947604,96289,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1311876,43568,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1278705,43283,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1727612,58003,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,145019,5841,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,156309,5899,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,633773,21191,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,703645,24102,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1670966,53208,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,617261,20359,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2374800,76735,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1888128,62854,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,908443,29735,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3292842,105208,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3303522,105875,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,0,0,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,539999,17632,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1442364,48846,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1427921,48029,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3489569,113395,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1377599,46505,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,890837,29957,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3402553,108900,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3486667,113406,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3199110,102855,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,602558,19759,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,2078415,67710,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1641132,55266,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,998538,33157,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1280710,43585,"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2645026,89671,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1819240,58567,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1797275,59617,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,2246182,74337,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,654167,22391,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,665457,22448,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1136299,37493,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1222215,40436,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1470869,46528,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1119787,36661,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2882164,91734,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1896259,63113,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,708346,23055,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3092746,98528,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3103425,99195,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,539335,17548,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,0,0,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1960934,65181,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1946491,64364,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3163043,104879,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1896169,62840,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,1409407,46292,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3202456,102220,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3160141,104890,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,2664341,85816,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,903683,30574,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,2585779,82709,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1601082,51224,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,1501065,49459,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1799280,59920,"457-499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3907132,129669,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1433555,48195,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,339590,12274,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,326537,11974,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1303376,44325,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1287144,43140,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1059436,36704,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,767342,26413,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2879799,93388,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1008243,33867,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2094735,67921,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2650048,86517,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1937071,65420,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4501676,145389,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4512356,146056,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1442830,48739,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1952500,65409,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,0,0,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,15185,1107,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4698402,153575,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,188889,7405,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,630829,22604,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4475198,147968,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4695500,153586,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4611612,150631,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1562085,53139,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1889343,62694,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2551163,84019,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,809788,28218,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,397504,14694,"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3891860,128809,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1418284,47336,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,324318,11414,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,326229,11946,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1288105,43466,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1271873,42280,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1044164,35845,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,752070,25554,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2864528,92529,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,992971,33008,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2079463,67061,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2634776,85658,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1921799,64561,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4486404,144529,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4497084,145196,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1427559,47879,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1937229,64550,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,15753,1055,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,0,0,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4683131,152716,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,173617,6546,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,615557,21745,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4459927,147109,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4680229,152727,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4596340,149772,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1546813,52279,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1874072,61835,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2535891,83160,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,794517,27358,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,382232,13835,"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,1186330,38483,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,3953426,127102,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,4535677,146815,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4984584,161534,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,3441183,111400,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,3435705,110702,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,3837549,123144,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3960617,127633,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2014063,65849,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3858189,123859,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,4984729,156770,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,3078893,97168,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2917703,94545,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,634847,21473,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,588792,19471,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,3491526,112002,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,3182747,103713,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,4699336,152378,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,4684893,151561,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,0,0,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,4634571,150037,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,4147809,133489,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,782597,26666,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,25984,1513,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,1299358,44832,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,3304591,107098,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,4688345,147745,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2740588,88567,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,4239467,136656,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,4537682,147117,"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3776462,124699,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1252956,41788,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,158990,5867,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,496074,18061,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1238396,42015,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1222165,40830,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,928766,31735,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,702362,24103,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2784233,90700,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,943263,31557,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1914135,61514,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2478291,80562,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1806402,60451,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4360156,141850,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4370836,142517,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1377851,46428,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1887520,63099,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,189062,7312,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,174619,6495,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4633423,151265,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,0,0,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,500159,17635,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4344529,142999,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4630520,151276,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4546632,148321,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1431416,48169,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1708744,56287,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2379405,78064,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,804904,27834,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,216905,8287,"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3314265,108906,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1103626,37259,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,401048,14318,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,920102,32809,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,751515,25637,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,735284,24451,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,466569,15942,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,215481,7725,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2327938,74700,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,456382,15179,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1891379,61677,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2151966,72434,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1344205,44658,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,3897959,126057,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,3908639,126724,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,890970,30050,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1400639,46721,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,619991,22733,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,605548,21916,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4146542,134887,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,499943,17540,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1 Mazeroski Way, Pittsburgh, PA 15212, USA",PIT,PNC Park,0,0,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3882332,127206,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4143639,134898,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4059751,131943,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,969219,32376,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1685987,56451,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1996621,65797,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,507455,17665,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,403054,14620,"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,570239,19081,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,3443082,108513,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,4227837,139000,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4823243,157482,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,3353325,107952,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,3347847,107254,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,3471158,112918,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3872759,124185,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1736578,56286,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3770330,120411,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,4271709,133757,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2365873,74155,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2512933,85138,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,152756,5700,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,200657,7987,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,3403668,108554,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,3198983,102202,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,4472977,147613,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,4458534,146796,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,783824,26741,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,4340844,142485,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,3877072,126692,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,0,0,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,808851,27935,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,2023004,69067,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,2910394,94590,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,3975324,124732,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2158392,67929,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,4151608,133208,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,4326628,138376,"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,1208993,39395,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,3976089,128015,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,4532580,146845,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4981488,161564,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,3438087,111430,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,3432609,110732,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,3834452,123174,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3957521,127663,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2010966,65880,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3855092,123889,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,5007392,157683,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,3101556,98081,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2914606,94575,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,657509,22385,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,611455,20384,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,3488430,112032,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,3179651,103743,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,4696240,152408,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,4681797,151591,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,25580,1501,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,4631475,150067,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,4144712,133519,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,805260,27579,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,0,0,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,1296261,44862,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,3301495,107128,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,4711007,148658,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2763251,89480,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,4236370,136686,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,4534586,147147,"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2275491,78177,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,4240863,138658,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,4457080,144909,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,4905987,159628,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,3313972,107682,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,3325262,107740,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,3796104,122785,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,3882020,125727,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2101598,70234,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,3779592,121953,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,5303788,171825,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,3712832,125124,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2965476,97439,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,1872518,63903,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,1826463,61901,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,3199139,102840,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,2664514,85901,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,4620739,150472,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,4606296,149655,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,1299449,45224,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,4555974,148131,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,4069211,131583,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,2020268,69097,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,1296547,45235,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,0,0,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,3352364,109992,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,5007403,162800,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,3313026,112083,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,4160869,134750,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,4459085,145211,"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,2345381,76683,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,891182,28975,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1318562,44657,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,1913968,63140,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,488074,16624,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,474818,15469,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,561883,18576,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,898292,29638,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1366463,43290,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,883547,28477,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1954106,62142,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1247202,43812,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,388631,13040,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,2929075,93834,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,2939755,94501,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,605728,19471,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,899980,30690,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1563702,53271,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1549259,52454,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,3305986,108340,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1431569,48143,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,967797,32350,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,2913448,94982,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,3303084,108351,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3353343,110159,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,0,0,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1657721,53117,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1038909,35660,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,1264825,41275,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1320568,44960,"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3498991,109609,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,768350,24227,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,1554445,50965,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,2194007,73204,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1931704,63430,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1915472,62244,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1509051,48081,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1792309,59374,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,3023939,95892,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1927828,62162,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,426906,13944,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,1611989,51019,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,2046107,65642,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4072413,128250,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4101654,129385,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,2081366,67619,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,2590371,82604,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,1886996,62456,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,1872553,61639,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4684003,147616,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,1707531,56192,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,1684195,56480,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,3978130,124777,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4709030,148810,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,5010819,162761,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1660769,52945,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,0,0,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,1837334,59912,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,2180928,73107,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,1485513,48433,"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,1684749,53136,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1285284,41146,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,2224010,72737,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,2869290,94531,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1526881,51976,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1578105,50838,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,1527700,49725,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,1928249,62969,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,1258295,42137,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,1934927,63301,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2137979,68935,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,413459,13533,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,900684,28781,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,2258171,71777,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,2287412,72912,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1644535,54823,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1599697,51206,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,2550453,83850,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,2536010,83033,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,2738255,88961,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,2379017,77945,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,1991910,65409,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,2163889,68304,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,2763281,90155,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,3325364,112424,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1039926,35600,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1841594,59910,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,0,0,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,2304366,76309,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,2169793,70771,"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3610230,117943,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1530047,50965,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,739019,28459,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,879118,29539,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,844259,28858,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,828027,27672,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,789882,27191,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,467161,16553,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2419216,77761,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,373837,13094,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,2387553,78462,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2460814,83129,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1612649,53079,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4041093,129762,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4051773,130429,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,997959,33179,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1502341,49694,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,810226,28045,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,795783,27228,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4237819,137949,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,806248,27763,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,508313,17640,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4150803,133454,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4234917,137959,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4161453,134916,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1265183,41413,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,2182161,73235,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2305469,76492,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,0,0,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,778130,30323,"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre
+"200-298 S 4th St, Phoenix, AZ 85004, USA",ARI,Chase Field,3706712,121268,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"Downtown Connector, Atlanta, GA 30315, USA",ATL,Turner Field,1030593,34162,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"501-599 Eislen St, Baltimore, MD 21230, USA",BAL,Oriole Park at Camden Yards,62246,3002,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1-99 Fenway Plaza, Boston, MA 02215, USA",BOS,Fenway Park,701808,25241,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"3667 N Clark St, Chicago, IL 60613, USA",CHC,Wrigley Field,1139661,39043,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"333 W 35th St, Chicago, IL 60616, USA",CHW,US Cellular Field,1123429,37857,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"184-190 Walnut St, Cincinnati, OH 45202, USA",CIN,Great American Ballpark,818189,28596,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"519 Bolivar Rd, Cleveland, OH 44115, USA",CLE,Progressive Field,603627,21131,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1726-1792 20th St, Denver, CO 80202, USA",COL,Coors Field,2673656,87561,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1774 Cherry St, Detroit, MI 48216, USA",DET,Tiger Stadium,844528,28584,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1641 NW 5th St, Miami, FL 33125, USA",FLA,Marlins Park,1691772,53887,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1500 Texas St, Houston, TX 77002, USA",HOU,Minute Main Park,2269994,73553,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"Lancer Ln, Kansas City, MO 64129, USA",KAN,Kauffman Stadium,1695825,57312,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"2000 E Gene Autry Way, Anaheim, CA 92806, USA",LAA,Angel Stadium of Anaheim,4290406,138419,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"Echo Park, Los Angeles, CA, USA",LAD,Dodger Stadium,4301086,139085,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"221 Frederick Miller Way, Milwaukee, WI 53214, USA",MIL,Miller Park,1279115,43456,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"499 N 7th St, Minneapolis, MN 55405, USA",MIN,Target Field,1788785,60126,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"Boat Basin Pl, Corona, NY 11368, USA",NYM,Citi Field,394796,14493,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"Macombs Dam Bridge, Bronx, NY 10452, USA",NYY,Yankee Stadium,380353,13676,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"7000 Coliseum Way, Oakland, CA 94621, USA",OAK,O.co Stadium,4534688,148293,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"16 S 11th St, Philadelphia, PA 19148, USA",PHI,Citizens Bank Park,215331,8229,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"211 N Shore Dr, Pittsburgh, PA 15212, USA",PIT,PNC Park,401424,14662,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"200-224 Sixth Ave, San Diego, CA 92101, USA",SDP,Petco Park,4332826,138952,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"176-190 King St, San Francisco, CA 94107, USA",SFG,AT&T Park,4531785,148304,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1181 Dave Niehaus Way S, Seattle, WA 98134, USA",SEA,Safeco Field,4447897,145349,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"698 S 8th St, St. Louis, MO 63102, USA",STL,Busch Stadium,1320839,45031,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1634-1680 3rd Ave S, St. Petersburg, FL 33705, USA",TBR,Tropicana Field,1486381,48661,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"1000-1152 Nolan Ryan Expy, Arlington, TX 76011, USA",TEX,Ballpark in Arlington,2171109,71055,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"83 Navy Wharf Ct, Toronto, ON M5V, Canada",TOR,Rogers Centre,775051,30122,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
+"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park,0,0,"8 O St SW, Washington, DC 20024, USA",WAS,Nationals Park
