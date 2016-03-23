@@ -75,8 +75,8 @@ def calcDistStats(distdict, population):
     avgdist   = np.mean(distances)
     mindist   = np.min(distances)
     maxdist   = np.max(distances)
-    bestpos   = distances.index(min(distances))
-    return {'avgdist': avgdist, 'mindist': mindist, 'maxdist': maxdist, 'bestpos': bestpos}
+    bestpath  = distances.index(min(distances))
+    return {'avgdist': avgdist, 'mindist': mindist, 'maxdist': maxdist, 'bestpath': bestpath}
     
 # create functions to perform selection for the next generation
 #--------------------------------------------------------------
@@ -116,6 +116,13 @@ def getCouples(n, parents):
         if p1 != p2:
             couples.append((p1, p2))
     return couples
+
+def countUnique(population):
+    seen = []
+    for path in population:
+        if path not in seen:
+            seen.append(path)
+    return len(seen)
     
 # create functions to perform crossover for the next generation
 #--------------------------------------------------------------
@@ -288,37 +295,41 @@ def geneticBaseball(generations = 1000, popsize = 100, mrate = 0.05, cross = cro
         - cross[func]: crossover/breeding function to use in the production of new children [crossOX, crossER]
         - mutate[func]: mutation function to use in the random mutation of new children [mutateDM, mutateEM]
     @return:
-        - gentracker[dict]: dictionary to keep track of iterative (multiples of 100) and final results'''
+        - gentracker[dict]: dictionary to keep track of iterative results from each generation'''
 
     population = initPop(TEAMLIST, popsize)
-    gentracker = {'generation': [], 'avgdist': [], 'mindist': [], 'maxdist': [], 'bestpos': []}
+    gentracker = {'generation': [], 'avgdist': [], 'mindist': [], 'maxdist': [], 'bestpath': []}
     
     for g in range(generations+1):
 
-        if g % 100 == 0:
+        diststats = calcDistStats(DISTDICT, population)
+        gentracker['generation'].append(g)
 
-            print("iteration: {0}".format(g)) 
-            diststats = calcDistStats(DISTDICT, population)
-
-            gentracker['generation'].append(g)
-            gentracker['avgdist'].append(round(diststats['avgdist'] / 1609.34))
-            gentracker['mindist'].append(round(diststats['mindist'] / 1609.34))
-            gentracker['maxdist'].append(round(diststats['maxdist'] / 1609.34))
-            gentracker['bestpos'].append(",".join(population[diststats['bestpos']]))
+        gentracker['avgdist'].append(round(diststats['avgdist'] / 1609.34))
+        gentracker['mindist'].append(round(diststats['mindist'] / 1609.34))
+        gentracker['maxdist'].append(round(diststats['maxdist'] / 1609.34))
+        gentracker['bestpath'].append(",".join(population[diststats['bestpath']]))
 
         fitness  = calcFitness(DISTDICT, population)
         parents  = getParents(popsize, population, fitness)
         bestpath = parents[0]
-        
+
         children = cross(popsize, parents)
         children = mutate(children, mrate)
 
+        if g % 100 == 0: 
+            print("\nCurrent Iteration: {0}".format(g))
+            print("Number of Unique Parents: {0}".format(countUnique(parents)))
+            print("Number of Unique Children: {0}".format(countUnique(children)))
+            print("Best Path Distance: {0}".format(round(diststats['mindist'] / 1609.34)))
+            print("Best Path: {0}".format(",".join(population[diststats['bestpath']])))
+
         children.append(bestpath)
-        population = children[:]     
+        population = children[:]  
         
     return gentracker
 
-results = geneticBaseball(5000, 100, 0.05)
+results = geneticBaseball(2000, 100, 0.05)
 results = pd.DataFrame(results)
-results.to_csv('../data/PathResults.csv', sep = ',', header = True, index = False) 
+results.to_csv('../data/PathResults.csv', header = True, index = False) 
 
